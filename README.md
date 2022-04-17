@@ -11,6 +11,7 @@ Stopwatch is a simple app built using Swift. You can track the elapsed time, add
 ### Used Technologies
 
 - Timer
+- Timer Format
 
 ### Used Technologies
 
