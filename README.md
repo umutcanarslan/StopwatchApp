@@ -8,6 +8,16 @@ Stopwatch is a simple app built using Swift. You can track the elapsed time, add
 <img src="./images/lap.PNG" width="277" height="600">&nbsp;
 <img src="./images/stop.PNG" width="277" height="600"><br>
 
+### Used Technologies
+
+- Timer
+
+### Used Technologies
+
+- Start Timer
+- Pause Timer
+- Lap Conuter
+
 ### Requirements
 
 - iOS 13.0+
